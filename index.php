@@ -32,51 +32,70 @@
 
 </head>
 <body>
-<div class="wrapper">
-  <div class="left-section">
-    <img src="landing/images/logo.png" alt="nova auto rental miami" />
-  </div>
-  <div class="right-section">
-    <h1 id="logo" align="center">Danto's App</h1>
-    <div class="seprator"></div>
-    <div class="main-content">
-      <h2>Let's Grow Together</h2><br>
-      <h2></h2><br>
-      <h2></h2>
-      <p>&nbsp;</p>
-    </div>
-    <ul class="social">
-      <!-- <li id="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li> -->
-      <!-- <li id="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li> -->
-      <!-- <li id="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
-    </ul>
-    <ul class="info">
-      <!-- <li><i class=""></i><b>ORLANDO</b></li>
-      <li><i class="fa fa-map-marker"></i>5323 Millenia Lakes Blvd Suite 300. Orlando, FL. 32839-3395</li>
-      <li><i class="fa fa-phone-square"></i>786-556.6165</li>
-      <li><i class="fa fa-envelope"></i><a href="#">info@novaautorental.com</a></li> -->
-      <li><i class=""></i>&nbsp;</li>
-      <!-- <li><i class=""></i><b>MIAMI</b></li> -->
-      <!-- <li><i class="fa fa-map-marker"></i>2470 NW 33rd. Avenue. Miami, FL. 33142</li> -->
-      <!-- <li><i class="fa fa-phone-square"></i>786-556.6165</li> -->
-      <li><i class="fa fa-envelope"></i><a href="mailto:secretario@jkacolombia.org">hello@dantosapp.com</a></li>
-      <li id="facebook"><a href="https://www.dantosapp.com"><i class="fa fa-globe"></i>www.dantosapp.com</a></li>
-      <li id="instagram"><a href="https://www.instagram.com/dantosapp"><i class="fa-brands fa-instagram"></i>@dantosapp</a></li>
-    </ul>
+    <div class="wrapper">
+        <div class="left-section">
+            <img src="landing/images/logo.png" alt="Javier Gonzalez" />
+        </div>
+        <div class="right-section">
+            <h1 id="logo" align="center">Javier Gonzalez</h1>
+            <div class="seprator"></div>
+            <div class="main-content">
+            <h2>La Aurora Sioux</h2><br>
+            <h2></h2><br>
+            <h2></h2>
+            <p>&nbsp;</p>
+            </div>
+            <ul class="social">
+            <!-- <li id="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li> -->
+            <!-- <li id="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li> -->
+            <!-- <li id="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
+            </ul>
+            <ul class="info">
+            <!-- <li><i class=""></i><b>ORLANDO</b></li>
+            <li><i class="fa fa-map-marker"></i>5323 Millenia Lakes Blvd Suite 300. Orlando, FL. 32839-3395</li>
+            <li><i class="fa fa-phone-square"></i>786-556.6165</li>
+            <li><i class="fa fa-envelope"></i><a href="#">info@novaautorental.com</a></li> -->
+            <li><i class=""></i>&nbsp;</li>
+            <!-- <li><i class=""></i><b>MIAMI</b></li> -->
+            <!-- <li><i class="fa fa-map-marker"></i>2470 NW 33rd. Avenue. Miami, FL. 33142</li> -->
+            <!-- <li><i class="fa fa-phone-square"></i>786-556.6165</li> -->
+            <li><i class="fa fa-envelope"></i><a href="mailto:ysitelocuentoconunafogata@gmail.com">ysitelocuentoconunafogata@gmail.com</a></li>
+            <li id="facebook"><a href="https://aliarediciones.es/libro/la-aurora-sioux/"><i class="fa fa-globe"></i>https://aliarediciones.es/libro/la-aurora-sioux/</a></li>
+            <li id="instagram"><a href="https://www.instagram.com/javiergonzalezvaldearcos?igsh=ZHA5ZHExbWM4ZWFy"><i class="fa-brands fa-instagram"></i>@javiergonzalezvaldearcos</a></li>
+            </ul>
 
 
-    <div class="social-links">
-      <ul class="social2">
-        <li id="facebook"><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
-        <li id="instagram"><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-        <li id="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-      </ul>
+            <div class="social-links">
+            <ul class="social2">
+                <li id="facebook"><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                <li id="instagram"><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                <li id="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            </ul>
+            </div>
+
+            <div>
+                <p>
+                    &nbsp;
+                </p>
+            </div>
+            <div>
+                <p>
+                &nbsp;
+                </p>
+            </div>
+            <div>
+                <p>
+                    <a href="https://dantosapp.com" target="_blank"><small>Powered by Danto's App</small></a>
+                </p>
+            </div>
+            
+            
+        </div>
+
+        <div class="watch-section"><img src="landing/images/logo.png" /></div>
+        <div class="watch-section">pepe</div>
     </div>
-    
-    
-  </div>
-  <div class="watch-section"><img src="landing/images/logo.png" /></div>
-</div>
+
 
 
 </body>
