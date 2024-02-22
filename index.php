@@ -2,7 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Panamerica JKA Colombia 2023</title>
+<title>Javier Gonzalez Valdearcos - La Aurora Sioux</title>
+<meta name="description" content="La Aurora Sioux es el primer título de la trilogía “Hijos del Lobo”, basada en las aventuras de un guerrero sioux oglala que en su exilio por desamor recorre desde las colinas negras y las montañas rocosas hasta las infinitas praderas."/>
+<meta name="keywords" content="Escritor, libros, writer, book author, Javier Gonzalez, la aurora sioux, trilogia, trilogy, aurora sioux, españa, autor, books, hijos del lobo"/>
+
+<meta property="og:title" content="Javier Gonzalez Valdearcos - La Aurora Sioux" />
+<meta property="og:type" content="Website" />
+<meta property="og:url" content="https://aliarediciones.es/libro/la-aurora-sioux/" />
+<meta property="og:image" content="https://javier-gonzalez-sv7o8.ondigitalocean.app/landing/images/logo.png" />
+
 <link rel="apple-touch-icon" sizes="57x57" href="landing/favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="landing/favicon/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="landing/favicon/apple-icon-72x72.png">
